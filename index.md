@@ -1,7 +1,6 @@
 ---
 layout: default
+title: VISIONTECH.LLC
 ---
-
-# VISIONTECH.LLC
 
 _Founded by George Tsiokos in Ocoee, FL_
